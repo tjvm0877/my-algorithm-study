@@ -7,26 +7,6 @@
 
 import Foundation
 
-/*
- 
- x
- 1=> 1
- 2=> 3 (2)
- 3=> 6 (3)
- 4=> 10 (4)
- 5=> 15 (5)
- 
- y
- 1=> 1
- 2=> 2 (1)
- 3=> 4 (2)
- 4=> 7 (3)
- 
- 5=>
- x = 2
- y = 2
- */
-
 var inputNum = Int(readLine()!)!
 var weight = 0
 var lineCount = 1
@@ -51,5 +31,3 @@ if inputNum == 1 {
         print("\(b)/\(a)")
     }
 }
-
-//print("\(a)/\(b)")
