@@ -1,6 +1,4 @@
 //  Created by Hyun on 2022/01/01.
-import Foundation
-
 var inputNum = Int(readLine()!)!
 var weight = 0
 var lineCount = 1
