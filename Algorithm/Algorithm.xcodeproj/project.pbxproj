@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D281E5832798351700427260 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D281E5822798351700427260 /* main.swift */; };
+		D2FBAC0027994DF300864989 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2FBABFF27994DF300864989 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -30,9 +30,10 @@
 		D274C739277FC986004DA753 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		D274C73C277FC986004DA753 /* 2292.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2292.swift; sourceTree = "<group>"; };
 		D274C746277FD6FA004DA753 /* 1193.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1193.swift; sourceTree = "<group>"; };
-		D281E5822798351700427260 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D281E5822798351700427260 /* 2798.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2798.swift; sourceTree = "<group>"; };
 		D2D5D2B62796891900510BB6 /* 11399.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11399.swift; sourceTree = "<group>"; };
 		D2D5D2B827968DF600510BB6 /* 1076.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1076.swift; sourceTree = "<group>"; };
+		D2FBABFF27994DF300864989 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,7 +83,8 @@
 				D20801862795772700B0560B /* 1931.swift */,
 				D2D5D2B62796891900510BB6 /* 11399.swift */,
 				D2D5D2B827968DF600510BB6 /* 1076.swift */,
-				D281E5822798351700427260 /* main.swift */,
+				D281E5822798351700427260 /* 2798.swift */,
+				D2FBABFF27994DF300864989 /* main.swift */,
 			);
 			path = BaekJoon;
 			sourceTree = "<group>";
@@ -153,7 +155,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D281E5832798351700427260 /* main.swift in Sources */,
+				D2FBAC0027994DF300864989 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
