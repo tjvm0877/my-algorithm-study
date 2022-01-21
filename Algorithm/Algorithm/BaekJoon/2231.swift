@@ -1,21 +1,27 @@
 //  Created by Hyun on 2022/01/21.
-let inputNum = Int(readLine()!)!
-var title = 0
-var count = 0
 
-while count != inputNum {
-    title += 1
-    var numCheck = title
-    var endCheck = false
+let m = Int(readLine()!)!
+var minSum = 0
+var check = 0
+
+while check <= m {
+    check += 1
+    var a : [Int] = []
+    var b = check
+    var sum = check
+    a.append(check)
     
-    while numCheck != 0, endCheck == false {
-        if numCheck % 1000 == 666 {
-            count += 1
-            endCheck = true
-        } else {
-            numCheck = numCheck / 10
-        }
+    while b > 0 {
+        sum += b % 10
+        b /= 10
     }
+    
+    if sum == m, minSum == 0 {
+        minSum = check
+    } else if sum == m, sum < minSum {
+        minSum = check
+    }
+    
 }
 
-print(title)
+print(minSum)
