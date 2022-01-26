@@ -28,6 +28,7 @@
 		D2444838279D32D200665C69 /* 10870.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10870.swift; sourceTree = "<group>"; };
 		D244483A279D369A00665C69 /* 2750.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2750.swift; sourceTree = "<group>"; };
 		D24F8E8127A0F3F5004CD01C /* 18108.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 18108.swift; sourceTree = "<group>"; };
+		D24F8E8327A0F4C9004CD01C /* 10926.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10926.swift; sourceTree = "<group>"; };
 		D274C739277FC986004DA753 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		D274C73C277FC986004DA753 /* 2292.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2292.swift; sourceTree = "<group>"; };
 		D274C746277FD6FA004DA753 /* 1193.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1193.swift; sourceTree = "<group>"; };
@@ -98,6 +99,7 @@
 				D2444838279D32D200665C69 /* 10870.swift */,
 				D244483A279D369A00665C69 /* 2750.swift */,
 				D24F8E8127A0F3F5004CD01C /* 18108.swift */,
+				D24F8E8327A0F4C9004CD01C /* 10926.swift */,
 				D2161884279FC60A0006FDCD /* 20001.swift */,
 			);
 			path = BaekJoon;
