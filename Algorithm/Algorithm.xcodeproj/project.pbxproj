@@ -74,12 +74,12 @@
 			isa = PBXGroup;
 			children = (
 				D274C744277FC9E7004DA753 /* Programmers */,
-				D274C743277FC9CD004DA753 /* BaekJoon */,
+				D274C743277FC9CD004DA753 /* Boj */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
 		};
-		D274C743277FC9CD004DA753 /* BaekJoon */ = {
+		D274C743277FC9CD004DA753 /* Boj */ = {
 			isa = PBXGroup;
 			children = (
 				D274C73C277FC986004DA753 /* 2292.swift */,
@@ -104,7 +104,7 @@
 				D2161884279FC60A0006FDCD /* 20001.swift */,
 				D24F8E8527A0F58C004CD01C /* 13305(17).swift */,
 			);
-			path = BaekJoon;
+			path = Boj;
 			sourceTree = "<group>";
 		};
 		D274C744277FC9E7004DA753 /* Programmers */ = {
