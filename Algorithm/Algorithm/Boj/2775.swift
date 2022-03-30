@@ -23,3 +23,4 @@ func sol(_ n: Int, _ k: Int) -> Int {
     
     return dp[k][n-1]
 }
+
