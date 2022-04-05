@@ -113,6 +113,7 @@
 		D2DD156627AFE582000FB8FC /* 2501.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2501.swift; sourceTree = "<group>"; };
 		D2DFE32327F2AC36002A253D /* 2775.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2775.swift; sourceTree = "<group>"; };
 		D2EB5A1827E47DC4008945CE /* 7287.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 7287.swift; sourceTree = "<group>"; };
+		D2F1A55F27FC493800F5F717 /* 11653.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11653.swift; sourceTree = "<group>"; };
 		D2FBABFF27994DF300864989 /* 7568.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 7568.swift; sourceTree = "<group>"; };
 		D2FBAC012799584200864989 /* 1436.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1436.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -251,6 +252,7 @@
 				D25C311D27F56D9D0038CB74 /* 1946(solved).swift */,
 				D24E163727F9E7D6000DBA16 /* 10250.swift */,
 				D2CDC00727FABF4A001F7A07 /* 1904.swift */,
+				D2F1A55F27FC493800F5F717 /* 11653.swift */,
 			);
 			path = Boj;
 			sourceTree = "<group>";
