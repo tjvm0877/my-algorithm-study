@@ -74,6 +74,7 @@
 		D25C311D27F56D9D0038CB74 /* 1946(solved).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1946(solved).swift"; sourceTree = "<group>"; };
 		D261AFE827EF2827002D26D8 /* 2443.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2443.swift; sourceTree = "<group>"; };
 		D262840227C310AE00D924FA /* 1439.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1439.swift; sourceTree = "<group>"; };
+		D26755BE2801CFB9003F0A77 /* 3009.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 3009.swift; sourceTree = "<group>"; };
 		D26A3D5027E201C60071C52F /* 2576.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2576.swift; sourceTree = "<group>"; };
 		D26F8AB127C7A56F0095BDDF /* 2480.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2480.swift; sourceTree = "<group>"; };
 		D271DCE927C51E8D00348CC2 /* 15680.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 15680.swift; sourceTree = "<group>"; };
@@ -259,6 +260,7 @@
 				D22713CB27FDD5A4008C8089 /* 2581.swift */,
 				D2496EBA27FE5DF8002935EB /* 4153.swift */,
 				D228328227FFB24500ED7000 /* 4948.swift */,
+				D26755BE2801CFB9003F0A77 /* 3009.swift */,
 			);
 			path = Boj;
 			sourceTree = "<group>";
