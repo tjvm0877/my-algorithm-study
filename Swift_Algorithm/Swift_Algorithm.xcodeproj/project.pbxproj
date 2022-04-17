@@ -81,7 +81,7 @@
 		D26A3D5027E201C60071C52F /* 2576.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2576.swift; sourceTree = "<group>"; };
 		D26F8AB127C7A56F0095BDDF /* 2480.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2480.swift; sourceTree = "<group>"; };
 		D271DCE927C51E8D00348CC2 /* 15680.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 15680.swift; sourceTree = "<group>"; };
-		D274C739277FC986004DA753 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
+		D274C739277FC986004DA753 /* Swift_Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Swift_Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		D274C73C277FC986004DA753 /* 2292.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2292.swift; sourceTree = "<group>"; };
 		D274C746277FD6FA004DA753 /* 1193.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1193.swift; sourceTree = "<group>"; };
 		D27A39EB27C6259D00A16D70 /* 1100.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1100.swift; sourceTree = "<group>"; };
@@ -150,7 +150,7 @@
 		D274C73A277FC986004DA753 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D274C739277FC986004DA753 /* Algorithm */,
+				D274C739277FC986004DA753 /* Swift_Algorithm */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -287,9 +287,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D274C738277FC986004DA753 /* Algorithm */ = {
+		D274C738277FC986004DA753 /* Swift_Algorithm */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D274C740277FC986004DA753 /* Build configuration list for PBXNativeTarget "Algorithm" */;
+			buildConfigurationList = D274C740277FC986004DA753 /* Build configuration list for PBXNativeTarget "Swift_Algorithm" */;
 			buildPhases = (
 				D274C735277FC986004DA753 /* Sources */,
 				D274C736277FC986004DA753 /* Frameworks */,
@@ -299,9 +299,9 @@
 			);
 			dependencies = (
 			);
-			name = Algorithm;
+			name = Swift_Algorithm;
 			productName = Algorithm;
-			productReference = D274C739277FC986004DA753 /* Algorithm */;
+			productReference = D274C739277FC986004DA753 /* Swift_Algorithm */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -320,7 +320,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D274C734277FC986004DA753 /* Build configuration list for PBXProject "Algorithm" */;
+			buildConfigurationList = D274C734277FC986004DA753 /* Build configuration list for PBXProject "Swift_Algorithm" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -333,7 +333,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D274C738277FC986004DA753 /* Algorithm */,
+				D274C738277FC986004DA753 /* Swift_Algorithm */,
 			);
 		};
 /* End PBXProject section */
@@ -504,7 +504,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D274C734277FC986004DA753 /* Build configuration list for PBXProject "Algorithm" */ = {
+		D274C734277FC986004DA753 /* Build configuration list for PBXProject "Swift_Algorithm" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D274C73E277FC986004DA753 /* Debug */,
@@ -513,7 +513,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D274C740277FC986004DA753 /* Build configuration list for PBXNativeTarget "Algorithm" */ = {
+		D274C740277FC986004DA753 /* Build configuration list for PBXNativeTarget "Swift_Algorithm" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D274C741277FC986004DA753 /* Debug */,
