@@ -7,7 +7,7 @@ fun main() {
 
     val a = sc.nextInt()
     val b = sc.nextInt()
-    val result = a + b
+    val result = a - b
 
-    println(result)
+    print(result)
 }
