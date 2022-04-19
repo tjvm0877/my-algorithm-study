@@ -9,5 +9,5 @@ fun main() {
     val b = sc.nextInt()
     val result = a - b
 
-    print(result)
+    println(result)
 }
