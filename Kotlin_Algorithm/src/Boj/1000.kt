@@ -1,5 +1,4 @@
 package Boj
-// 알고리즘 첫번쨰 문제
 import java.util.*
 fun main() {
     // Scanner를 변수로 선언 => 반복하지 않아도된다!
