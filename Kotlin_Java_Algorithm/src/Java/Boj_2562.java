@@ -14,6 +14,7 @@ public class Boj_2562 {
             numArr[i] = sc.nextInt();
         }
 
+        // 배열을 돌아 가장 큰값, 큰값의 위치 찾기
         for (int i = 0; i < numArr.length; i++) {
             if (numArr[i] > max) {
                 max = numArr[i];
@@ -21,6 +22,7 @@ public class Boj_2562 {
             }
         }
 
+        // 출력
         System.out.println(max);
         System.out.println(maxLoc + 1);
     }
