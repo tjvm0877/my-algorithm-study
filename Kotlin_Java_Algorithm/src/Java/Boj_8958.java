@@ -2,7 +2,7 @@ package Java;
 
 import java.util.Scanner;
 
-public class Main {
+public class Boj_8958 {
     public static void main(String[] args) {
         Scanner sr = new Scanner(System.in);
         String arr[] = new String[sr.nextInt()];
