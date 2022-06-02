@@ -10,7 +10,6 @@ public class Boj_2439 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());
         br.close();
-
         for (int i = 1; i <= n; i++) {
             String stars = "";
             for (int j = 1; j <= (n-i); j++) {
